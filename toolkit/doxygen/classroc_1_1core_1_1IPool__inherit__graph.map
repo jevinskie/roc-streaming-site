@@ -1,0 +1,13 @@
+<map id="roc::core::IPool" name="roc::core::IPool">
+<area shape="rect" id="node1" title="Memory pool interface." alt="" coords="5,338,124,365"/>
+<area shape="rect" id="node2" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="181,5,423,47"/>
+<area shape="rect" id="node3" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="231,71,373,127"/>
+<area shape="rect" id="node4" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="200,151,404,207"/>
+<area shape="rect" id="node5" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="190,232,414,273"/>
+<area shape="rect" id="node6" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="215,297,389,339"/>
+<area shape="rect" id="node7" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="172,363,432,404"/>
+<area shape="rect" id="node8" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="231,428,373,469"/>
+<area shape="rect" id="node9" href="$classroc_1_1core_1_1SlabPool.html" title=" " alt="" coords="194,493,410,535"/>
+<area shape="rect" id="node10" href="$classroc_1_1core_1_1LimitedPool.html" title="Decorator around IPool to make it memory limited." alt="" coords="221,559,383,586"/>
+<area shape="rect" id="node11" href="$classroc_1_1core_1_1SlabPool.html" title="Memory pool." alt="" coords="205,611,399,652"/>
+</map>

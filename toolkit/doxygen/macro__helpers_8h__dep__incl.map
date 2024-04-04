@@ -1,0 +1,210 @@
+<map id="roc_core/macro_helpers.h" name="roc_core/macro_helpers.h">
+<area shape="rect" id="node1" title="Helper macros." alt="" coords="13791,5,13980,32"/>
+<area shape="rect" id="node2" href="$buffer_8h.html" title="Buffer." alt="" coords="8277,512,8408,539"/>
+<area shape="rect" id="node20" href="$receiver__session__router_8h.html" title="Receiver session router." alt="" coords="12007,1345,12166,1387"/>
+<area shape="rect" id="node62" href="$packet_8h.html" title="Packet." alt="" coords="12142,780,12293,807"/>
+<area shape="rect" id="node104" href="$hashmap_8h.html" title="Intrusive hash table." alt="" coords="14189,430,14342,457"/>
+<area shape="rect" id="node106" href="$hashmap__impl_8h.html" title="Intrusive hash table implementation file." alt="" coords="14171,341,14360,367"/>
+<area shape="rect" id="node107" href="$hashmap__node_8h.html" title="Hashmap node." alt="" coords="14221,162,14413,189"/>
+<area shape="rect" id="node108" href="$list__node_8h.html" title="Linked list node." alt="" coords="13867,162,14019,189"/>
+<area shape="rect" id="node141" href="$mpsc__queue__node_8h.html" title="MpscQueue node." alt="" coords="12059,587,12221,628"/>
+<area shape="rect" id="node147" href="$panic_8h.html" title="Panic." alt="" coords="13107,80,13235,107"/>
+<area shape="rect" id="node163" href="$string__builder_8h.html" title="String builder." alt="" coords="6139,512,6320,539"/>
+<area shape="rect" id="node3" href="$buffer__factory_8h.html" title="Buffer factory." alt="" coords="7030,884,7213,911"/>
+<area shape="rect" id="node47" href="$slice_8h.html" title="Slice." alt="" coords="8799,594,8921,621"/>
+<area shape="rect" id="node4" href="$builtin__resampler_8h.html" title="Built&#45;in resampler." alt="" coords="5659,988,5874,1015"/>
+<area shape="rect" id="node5" href="$channel__mapper__reader_8h.html" title="Channel mapper reader." alt="" coords="7965,981,8163,1022"/>
+<area shape="rect" id="node6" href="$receiver__session_8h.html" title="Receiver session pipeline." alt="" coords="13797,1256,13955,1297"/>
+<area shape="rect" id="node9" href="$receiver__source_8h.html" title="Receiver source pipeline." alt="" coords="10191,1613,10350,1655"/>
+<area shape="rect" id="node10" href="$receiver__loop_8h.html" title="Receiver pipeline loop." alt="" coords="10461,1703,10619,1744"/>
+<area shape="rect" id="node14" href="$context_8h.html" title="Node context." alt="" coords="16940,1971,17087,1997"/>
+<area shape="rect" id="node21" href="$transcoder__source_8h.html" title="Transcoder source pipeline." alt="" coords="6190,1256,6365,1297"/>
+<area shape="rect" id="node22" href="$channel__mapper__writer_8h.html" title="Channel mapper writer." alt="" coords="4765,981,4963,1022"/>
+<area shape="rect" id="node23" href="$sender__session_8h.html" title="Sender session." alt="" coords="7209,1256,7359,1297"/>
+<area shape="rect" id="node24" href="$sender__slot_8h.html" title="Sender slot." alt="" coords="7209,1345,7359,1387"/>
+<area shape="rect" id="node25" href="$sender__sink_8h.html" title="Sender sink pipeline." alt="" coords="6077,1435,6227,1476"/>
+<area shape="rect" id="node26" href="$sender__loop_8h.html" title="Sender pipeline loop." alt="" coords="2908,1524,3057,1565"/>
+<area shape="rect" id="node27" href="$transcoder__sink_8h.html" title="Transcoder sink pipeline." alt="" coords="4675,1256,4850,1297"/>
+<area shape="rect" id="node28" href="$decimation__resampler_8h.html" title="Decimating resampler." alt="" coords="7779,981,7941,1022"/>
+<area shape="rect" id="node29" href="$mixer_8h.html" title="Mixer." alt="" coords="9931,988,10069,1015"/>
+<area shape="rect" id="node30" href="$packetizer_8h.html" title="Packetizer." alt="" coords="6867,988,7034,1015"/>
+<area shape="rect" id="node34" href="$pcm__mapper__reader_8h.html" title="Pcm mapper reader." alt="" coords="9733,981,9907,1022"/>
+<area shape="rect" id="node35" href="$pcm__mapper__writer_8h.html" title="Pcm mapper writer." alt="" coords="2451,981,2626,1022"/>
+<area shape="rect" id="node36" href="$resampler__map_8h.html" title="Resampler map." alt="" coords="8752,981,8907,1022"/>
+<area shape="rect" id="node37" href="$resampler__writer_8h.html" title="Resampler." alt="" coords="5088,981,5243,1022"/>
+<area shape="rect" id="node38" href="$speex__resampler_8h.html" title="Speex resampler." alt="" coords="5317,981,5533,1022"/>
+<area shape="rect" id="node39" href="$codec__map_8h.html" title="FEC codec map." alt="" coords="12327,988,12486,1015"/>
+<area shape="rect" id="node40" href="$openfec__decoder_8h.html" title="Decoder implementation using OpenFEC library." alt="" coords="12561,981,12759,1022"/>
+<area shape="rect" id="node41" href="$openfec__encoder_8h.html" title="Encoder implementation using OpenFEC library." alt="" coords="10245,981,10443,1022"/>
+<area shape="rect" id="node42" href="$writer_8h.html" title="FEC writer." alt="" coords="7059,988,7181,1015"/>
+<area shape="rect" id="node43" href="$network__loop_8h.html" title="Network event loop thread." alt="" coords="17487,1077,17678,1119"/>
+<area shape="rect" id="node44" href="$udp__port_8h.html" title="UDP port." alt="" coords="16051,981,16215,1022"/>
+<area shape="rect" id="node45" href="$communicator_8h.html" title="RTCP communicator." alt="" coords="9286,988,9469,1015"/>
+<area shape="rect" id="node46" href="$pump_8h.html" title="Pump." alt="" coords="4394,1085,4531,1111"/>
+<area shape="rect" id="node7" href="$receiver__session__group_8h.html" title="Receiver session group." alt="" coords="11658,1435,11817,1476"/>
+<area shape="rect" id="node8" href="$receiver__slot_8h.html" title="Receiver slot." alt="" coords="15995,1524,16154,1565"/>
+<area shape="rect" id="node11" href="$basic__control__endpoint_8h.html" title="Base class for control endpoints." alt="" coords="13097,1792,13252,1833"/>
+<area shape="rect" id="node16" href="$receiver_8h.html" title="Receiver node." alt="" coords="387,2120,536,2147"/>
+<area shape="rect" id="node17" href="$receiver__decoder_8h.html" title="Receiver decoder node." alt="" coords="18507,2120,18715,2147"/>
+<area shape="rect" id="node12" href="$control__interface__map_8h.html" title="Control interface map." alt="" coords="17860,1881,18039,1923"/>
+<area shape="rect" id="node13" href="$control__loop_8h.html" title="Control loop thread." alt="" coords="2181,1889,2342,1915"/>
+<area shape="rect" id="node15" href="$node_8h.html" title="Base class for nodes." alt="" coords="17049,2045,17178,2072"/>
+<area shape="rect" id="node18" href="$sender_8h.html" title="Sender node." alt="" coords="18183,2120,18323,2147"/>
+<area shape="rect" id="node19" href="$sender__encoder_8h.html" title="Sender encoder node." alt="" coords="3699,2120,3898,2147"/>
+<area shape="rect" id="node31" href="$feedback__monitor_8h.html" title="Feedback monitor." alt="" coords="5295,1077,5444,1119"/>
+<area shape="rect" id="node32" href="$roc__pipeline_2config_8h.html" title="Pipeline config." alt="" coords="6406,1174,6562,1201"/>
+<area shape="rect" id="node33" href="$receiver__endpoint_8h.html" title="Receiver endpoint pipeline." alt="" coords="16022,1256,16181,1297"/>
+<area shape="rect" id="node48" href="$fanout_8h.html" title="Fanout." alt="" coords="7459,988,7602,1015"/>
+<area shape="rect" id="node49" href="$iresampler_8h.html" title="Audio resampler interface." alt="" coords="6235,884,6405,911"/>
+<area shape="rect" id="node50" href="$resampler__reader_8h.html" title="Resampler." alt="" coords="13988,981,14143,1022"/>
+<area shape="rect" id="node52" href="$iblock__decoder_8h.html" title="FEC block decoder interface." alt="" coords="12737,884,12919,911"/>
+<area shape="rect" id="node53" href="$reader_8h.html" title="FEC reader." alt="" coords="11821,1085,11947,1111"/>
+<area shape="rect" id="node54" href="$iblock__encoder_8h.html" title="FEC block encoder interface." alt="" coords="9235,884,9418,911"/>
+<area shape="rect" id="node55" href="$fec_8h.html" title="FEC packet." alt="" coords="13613,683,13741,710"/>
+<area shape="rect" id="node74" href="$icomposer_8h.html" title="Packet composer interface." alt="" coords="8833,884,9007,911"/>
+<area shape="rect" id="node80" href="$iparser_8h.html" title="Packet parser interface." alt="" coords="13356,988,13508,1015"/>
+<area shape="rect" id="node95" href="$rtcp_8h.html" title="RTCP compound packet." alt="" coords="8999,683,9132,710"/>
+<area shape="rect" id="node96" href="$rtp_8h.html" title="RTP packet." alt="" coords="9157,683,9283,710"/>
+<area shape="rect" id="node97" href="$udp_8h.html" title="UDP packet." alt="" coords="9307,676,9482,717"/>
+<area shape="rect" id="node98" href="$bye__traverser_8h.html" title="RTCP interface structures." alt="" coords="7988,683,8167,710"/>
+<area shape="rect" id="node101" href="$roc__rtcp_2print__packet_8h.html" title="Print RTCP packet to console." alt="" coords="9507,683,9677,710"/>
+<area shape="rect" id="node102" href="$sdes__traverser_8h.html" title="Sdes enums." alt="" coords="8242,683,8427,710"/>
+<area shape="rect" id="node103" href="$xr__traverser_8h.html" title="XR Traverser." alt="" coords="8452,683,8620,710"/>
+<area shape="rect" id="node51" href="$latency__monitor_8h.html" title="Latency monitor." alt="" coords="14103,1085,14310,1111"/>
+<area shape="rect" id="node56" href="$protocol__map_8h.html" title="Protocol attributes map." alt="" coords="12976,773,13133,814"/>
+<area shape="rect" id="node57" href="$codec__config_8h.html" title="FEC codec parameters." alt="" coords="12441,884,12610,911"/>
+<area shape="rect" id="node58" href="$roc__fec_2headers_8h.html" title="FECFRAME headers." alt="" coords="13513,780,13650,807"/>
+<area shape="rect" id="node61" href="$fec__scheme__to__str_8h.html" title="FEC scheme to string." alt="" coords="13726,773,13901,814"/>
+<area shape="rect" id="node94" href="$endpoint__helpers_8h.html" title="Validate endpoint protocols consistency." alt="" coords="13925,773,14088,814"/>
+<area shape="rect" id="node59" href="$roc__fec_2composer_8h.html" title="FECFRAME packet composer." alt="" coords="11578,988,11726,1015"/>
+<area shape="rect" id="node60" href="$roc__fec_2parser_8h.html" title="FECFRAME packet parser." alt="" coords="12276,1085,12401,1111"/>
+<area shape="rect" id="node63" href="$iframe__decoder_8h.html" title="Audio frame decoder interface." alt="" coords="13675,884,13877,911"/>
+<area shape="rect" id="node71" href="$iframe__encoder_8h.html" title="Audio frame encoder interface." alt="" coords="8403,884,8605,911"/>
+<area shape="rect" id="node73" href="$concurrent__queue_8h.html" title="Concurrent blocking packet queue." alt="" coords="11084,981,11249,1022"/>
+<area shape="rect" id="node79" href="$interleaver_8h.html" title="Interleaves packets before transmit." alt="" coords="7205,988,7384,1015"/>
+<area shape="rect" id="node82" href="$ireader_8h.html" title="Packet reader interface." alt="" coords="13902,884,14055,911"/>
+<area shape="rect" id="node84" href="$queue_8h.html" title="Packet queue." alt="" coords="14730,988,14878,1015"/>
+<area shape="rect" id="node85" href="$sorted__queue_8h.html" title="Sorted packet queue." alt="" coords="14902,988,15098,1015"/>
+<area shape="rect" id="node87" href="$isequencer_8h.html" title="Packet sequencer." alt="" coords="7339,884,7517,911"/>
+<area shape="rect" id="node89" href="$iwriter_8h.html" title="Packet writer interface." alt="" coords="13299,884,13448,911"/>
+<area shape="rect" id="node90" href="$router_8h.html" title="Route packets to writers." alt="" coords="11751,988,11897,1015"/>
+<area shape="rect" id="node91" href="$timestamp__extractor_8h.html" title="Extracts capture timestamp field from packets." alt="" coords="6624,988,6843,1015"/>
+<area shape="rect" id="node92" href="$packet__factory_8h.html" title="Packet factory." alt="" coords="11504,884,11707,911"/>
+<area shape="rect" id="node93" href="$packet__flags__to__str_8h.html" title="Packet flags to string." alt="" coords="14334,877,14511,918"/>
+<area shape="rect" id="node64" href="$depacketizer_8h.html" title="Depacketizer." alt="" coords="14421,988,14603,1015"/>
+<area shape="rect" id="node65" href="$pcm__decoder_8h.html" title="PCM decoder." alt="" coords="10468,988,10655,1015"/>
+<area shape="rect" id="node66" href="$encoding_8h.html" title="RTP encoding." alt="" coords="15681,988,15823,1015"/>
+<area shape="rect" id="node70" href="$filter_8h.html" title="RTP filter." alt="" coords="13119,988,13231,1015"/>
+<area shape="rect" id="node67" href="$encoding__map_8h.html" title="RTP encoding map." alt="" coords="15835,1085,16013,1111"/>
+<area shape="rect" id="node68" href="$link__meter_8h.html" title="RTP link meter." alt="" coords="15461,1174,15613,1201"/>
+<area shape="rect" id="node69" href="$roc__rtp_2parser_8h.html" title="RTP packet parser." alt="" coords="15637,1174,15760,1201"/>
+<area shape="rect" id="node72" href="$pcm__encoder_8h.html" title="PCM encoder." alt="" coords="8288,988,8475,1015"/>
+<area shape="rect" id="node75" href="$shipper_8h.html" title="Prepare and ship outgoing packets." alt="" coords="13633,1085,13788,1111"/>
+<area shape="rect" id="node76" href="$sender__endpoint_8h.html" title="Sender endpoint pipeline." alt="" coords="8981,1167,9131,1208"/>
+<area shape="rect" id="node77" href="$roc__rtcp_2composer_8h.html" title="RTCP packet composer." alt="" coords="9473,1085,9626,1111"/>
+<area shape="rect" id="node78" href="$roc__rtp_2composer_8h.html" title="RTP packet composer." alt="" coords="9032,1085,9179,1111"/>
+<area shape="rect" id="node81" href="$roc__rtcp_2parser_8h.html" title="RTCP packet parser." alt="" coords="13327,1085,13457,1111"/>
+<area shape="rect" id="node83" href="$delayed__reader_8h.html" title="Delayed reader." alt="" coords="14989,1077,15137,1119"/>
+<area shape="rect" id="node86" href="$timestamp__injector_8h.html" title="Fills capture timestamp field in packets." alt="" coords="12834,988,13043,1015"/>
+<area shape="rect" id="node88" href="$sequencer_8h.html" title="RTP packet sequencer." alt="" coords="7321,1174,7471,1201"/>
+<area shape="rect" id="node99" href="$builder_8h.html" title="RTCP packet builder." alt="" coords="8313,780,8447,807"/>
+<area shape="rect" id="node100" href="$traverser_8h.html" title="RTCP packet traverser." alt="" coords="8471,780,8619,807"/>
+<area shape="rect" id="node105" href="$reporter_8h.html" title="RTCP reporter." alt="" coords="11099,683,11240,710"/>
+<area shape="rect" id="node109" href="$iframe__reader_8h.html" title="Frame reader interface." alt="" coords="10224,884,10416,911"/>
+<area shape="rect" id="node118" href="$iframe__writer_8h.html" title="Frame writer interface." alt="" coords="4729,884,4917,911"/>
+<area shape="rect" id="node124" href="$list_8h.html" title="Intrusive doubly&#45;linked list." alt="" coords="13483,251,13597,278"/>
+<area shape="rect" id="node130" href="$media__description_8h.html" title="SDP Media Description." alt="" coords="10259,683,10467,710"/>
+<area shape="rect" id="node133" href="$control__task_8h.html" title="Control task." alt="" coords="11315,683,11477,710"/>
+<area shape="rect" id="node136" href="$basic__port_8h.html" title="Base class for ports." alt="" coords="16718,587,16887,628"/>
+<area shape="rect" id="node140" href="$connection__data_8h.html" title="Connection field in a SDP." alt="" coords="9723,587,9869,628"/>
+<area shape="rect" id="node110" href="$profiling__reader_8h.html" title="Profiling reader." alt="" coords="6254,981,6397,1022"/>
+<area shape="rect" id="node111" href="$watchdog_8h.html" title="Watchdog." alt="" coords="9493,988,9657,1015"/>
+<area shape="rect" id="node112" href="$isource_8h.html" title="Source interface." alt="" coords="3987,988,4133,1015"/>
+<area shape="rect" id="node113" href="$backend__dispatcher_8h.html" title="Backend dispatcher." alt="" coords="2857,1085,3085,1111"/>
+<area shape="rect" id="node115" href="$pulseaudio__device_8h.html" title="PulseAudio device." alt="" coords="2349,1077,2574,1119"/>
+<area shape="rect" id="node116" href="$sox__source_8h.html" title="SoX source." alt="" coords="4141,1077,4318,1119"/>
+<area shape="rect" id="node117" href="$wav__source_8h.html" title="WAV source." alt="" coords="3262,1085,3439,1111"/>
+<area shape="rect" id="node114" href="$roc__sndio_2print__supported_8h.html" title="Print supported schemes and formats." alt="" coords="2945,1174,3148,1201"/>
+<area shape="rect" id="node119" href="$null__writer_8h.html" title="Null writer." alt="" coords="4119,1174,4289,1201"/>
+<area shape="rect" id="node120" href="$profiling__writer_8h.html" title="Profiling writer." alt="" coords="3617,981,3759,1022"/>
+<area shape="rect" id="node121" href="$isink_8h.html" title="Sink interface." alt="" coords="2651,988,2781,1015"/>
+<area shape="rect" id="node122" href="$sox__sink_8h.html" title="SoX sink." alt="" coords="1910,1077,2071,1119"/>
+<area shape="rect" id="node123" href="$wav__sink_8h.html" title="WAV sink." alt="" coords="995,1085,1157,1111"/>
+<area shape="rect" id="node125" href="$profiler_8h.html" title="Profiler." alt="" coords="4456,884,4603,911"/>
+<area shape="rect" id="node126" href="$slab__pool__impl_8h.html" title="Memory pool implementation class." alt="" coords="12990,333,13133,375"/>
+<area shape="rect" id="node128" href="$control__task__queue_8h.html" title="Control task queue." alt="" coords="9949,877,10099,918"/>
+<area shape="rect" id="node129" href="$tcp__server__port_8h.html" title="TCP server." alt="" coords="17849,973,18013,1029"/>
+<area shape="rect" id="node131" href="$session__description_8h.html" title="Session Description Protocol." alt="" coords="10057,780,10273,807"/>
+<area shape="rect" id="node127" href="$slab__pool_8h.html" title="Memory pool." alt="" coords="12327,430,12481,457"/>
+<area shape="rect" id="node132" href="$roc__sdp_2parser_8h.html" title="Parser for the Session Description Protocol." alt="" coords="9595,884,9723,911"/>
+<area shape="rect" id="node134" href="$control__task__executor_8h.html" title="Control task executor." alt="" coords="5224,773,5373,814"/>
+<area shape="rect" id="node135" href="$icontrol__task__completer_8h.html" title="Control task completion handler." alt="" coords="11099,773,11253,814"/>
+<area shape="rect" id="node137" href="$network__task_8h.html" title="Network task." alt="" coords="15578,676,15769,717"/>
+<area shape="rect" id="node139" href="$tcp__connection__port_8h.html" title="TCP connection." alt="" coords="17401,869,17589,925"/>
+<area shape="rect" id="node138" href="$inetwork__task__completer_8h.html" title="Network task completion handler." alt="" coords="17105,765,17287,821"/>
+<area shape="rect" id="node142" href="$mpsc__queue_8h.html" title="Multi&#45;producer single&#45;consumer queue." alt="" coords="11739,780,11914,807"/>
+<area shape="rect" id="node144" href="$mpsc__queue__impl_8h.html" title="Multi&#45;producer single&#45;consumer queue internal implementation." alt="" coords="11907,676,12069,717"/>
+<area shape="rect" id="node145" href="$pipeline__task_8h.html" title="Base class for pipeline tasks." alt="" coords="4536,676,4693,717"/>
+<area shape="rect" id="node143" href="$pipeline__loop_8h.html" title="Base class for pipelines." alt="" coords="3971,877,4128,918"/>
+<area shape="rect" id="node146" href="$ipipeline__task__completer_8h.html" title="Pipeline task completion handler." alt="" coords="3977,773,4138,814"/>
+<area shape="rect" id="node148" href="$allocation__policy_8h.html" title="Allocation policies." alt="" coords="16107,333,16253,375"/>
+<area shape="rect" id="node153" href="$scoped__ptr_8h.html" title="Unique ownrship pointer." alt="" coords="8464,1085,8627,1111"/>
+<area shape="rect" id="node154" href="$array_8h.html" title="Dynamic array." alt="" coords="6875,341,7000,367"/>
+<area shape="rect" id="node155" href="$string__buffer_8h.html" title="String buffer." alt="" coords="3777,430,3951,457"/>
+<area shape="rect" id="node183" href="$iarena_8h.html" title="Memory arena interface." alt="" coords="11370,251,11505,278"/>
+<area shape="rect" id="node191" href="$ipool_8h.html" title="Memory pool interface." alt="" coords="14536,251,14661,278"/>
+<area shape="rect" id="node193" href="$optional_8h.html" title="Optionally constructed object." alt="" coords="6156,430,6303,457"/>
+<area shape="rect" id="node194" href="$shared__ptr_8h.html" title="Shared ownership intrusive pointer." alt="" coords="12110,512,12271,539"/>
+<area shape="rect" id="node195" href="$mutex_8h.html" title="Mutex." alt="" coords="11959,155,12121,196"/>
+<area shape="rect" id="node200" href="$singleton_8h.html" title="Singleton." alt="" coords="12781,155,12944,196"/>
+<area shape="rect" id="node202" href="$ticker_8h.html" title="Ticker." alt="" coords="2081,683,2209,710"/>
+<area shape="rect" id="node204" href="$roc__rtcp_2headers_8h.html" title="RTCP headers." alt="" coords="8433,512,8575,539"/>
+<area shape="rect" id="node207" href="$roc__rtp_2headers_8h.html" title="RTP headers." alt="" coords="17283,162,17418,189"/>
+<area shape="rect" id="node208" href="$driver_8h.html" title="Driver types." alt="" coords="1507,780,1645,807"/>
+<area shape="rect" id="node149" href="$ref__counted_8h.html" title="Base class for object with reference counter." alt="" coords="15936,430,16107,457"/>
+<area shape="rect" id="node150" href="$iconn__handler_8h.html" title="Connection event handler interface." alt="" coords="17616,676,17808,717"/>
+<area shape="rect" id="node151" href="$iconn__acceptor_8h.html" title="Connection acceptor interface." alt="" coords="17765,877,17963,918"/>
+<area shape="rect" id="node152" href="$iterminate__handler_8h.html" title="Termination handler interface." alt="" coords="17769,765,17933,821"/>
+<area shape="rect" id="node176" href="$ibackend_8h.html" title="Backend interface." alt="" coords="1493,884,1651,911"/>
+<area shape="rect" id="node182" href="$string__list_8h.html" title="Dynamic list of strings." alt="" coords="9893,594,10051,621"/>
+<area shape="rect" id="node156" href="$endpoint__uri_8h.html" title="Network endpoint URI." alt="" coords="5878,676,6039,717"/>
+<area shape="rect" id="node161" href="$io__uri_8h.html" title="Audio file or device URI." alt="" coords="3804,594,3956,621"/>
+<area shape="rect" id="node157" href="$endpoint__uri__to__str_8h.html" title="Format EndpointUri to string." alt="" coords="5878,773,6039,814"/>
+<area shape="rect" id="node158" href="$resolver__request_8h.html" title="Resolver request." alt="" coords="16819,773,17029,814"/>
+<area shape="rect" id="node159" href="$iresolver__request__handler_8h.html" title="Resolver request result handler interface." alt="" coords="16920,869,17123,925"/>
+<area shape="rect" id="node160" href="$resolver_8h.html" title="Hostname resolver." alt="" coords="17355,981,17519,1022"/>
+<area shape="rect" id="node162" href="$io__uri__to__str_8h.html" title="Format IoUri to string." alt="" coords="3825,676,3965,717"/>
+<area shape="rect" id="node164" href="$pct_8h.html" title="Percent&#45;encoding and &#45;decoding." alt="" coords="5879,594,6015,621"/>
+<area shape="rect" id="node165" href="$channel__set_8h.html" title="Channel set." alt="" coords="6140,594,6319,621"/>
+<area shape="rect" id="node169" href="$sample__spec_8h.html" title="Sample specifications." alt="" coords="5667,683,5853,710"/>
+<area shape="rect" id="node166" href="$channel__mapper_8h.html" title="Channel mapper." alt="" coords="6216,780,6424,807"/>
+<area shape="rect" id="node167" href="$channel__mapper__matrix_8h.html" title="Channel mapping matrix." alt="" coords="6267,676,6464,717"/>
+<area shape="rect" id="node168" href="$channel__set__to__str_8h.html" title="Format ChannelSet to string." alt="" coords="4193,676,4359,717"/>
+<area shape="rect" id="node170" href="$frame_8h.html" title="Audio frame." alt="" coords="5398,780,5538,807"/>
+<area shape="rect" id="node171" href="$latency__tuner_8h.html" title="Latency tuner." alt="" coords="5563,780,5752,807"/>
+<area shape="rect" id="node174" href="$sample__spec__to__str_8h.html" title="Format SampleSpec to string." alt="" coords="4518,773,4693,814"/>
+<area shape="rect" id="node175" href="$roc__sndio_2config_8h.html" title="Sink and source config." alt="" coords="2132,780,2271,807"/>
+<area shape="rect" id="node179" href="$sox__backend_8h.html" title="SoX backend." alt="" coords="1478,981,1666,1022"/>
+<area shape="rect" id="node180" href="$wav__backend_8h.html" title="WAV backend." alt="" coords="905,988,1093,1015"/>
+<area shape="rect" id="node181" href="$idevice_8h.html" title="Device interface." alt="" coords="2995,780,3141,807"/>
+<area shape="rect" id="node172" href="$resampler__config_8h.html" title="Resampler config." alt="" coords="5701,877,5856,918"/>
+<area shape="rect" id="node173" href="$metrics_8h.html" title="Pipeline metrics." alt="" coords="9459,1174,9626,1201"/>
+<area shape="rect" id="node177" href="$backend__map_8h.html" title="Backend map." alt="" coords="721,1085,911,1111"/>
+<area shape="rect" id="node178" href="$pulseaudio__backend_8h.html" title="Pulseaudio backend." alt="" coords="1167,981,1403,1022"/>
+<area shape="rect" id="node184" href="$roc__address_2print__supported_8h.html" title="Print supported interfaces and protocols." alt="" coords="11328,341,11547,367"/>
+<area shape="rect" id="node185" href="$heap__arena_8h.html" title="Heap arena implementation." alt="" coords="10531,341,10701,367"/>
+<area shape="rect" id="node186" href="$limited__arena_8h.html" title="Limited Arena." alt="" coords="10725,341,10907,367"/>
+<area shape="rect" id="node187" href="$noop__arena_8h.html" title="No&#45;op arena implementation." alt="" coords="10931,341,11101,367"/>
+<area shape="rect" id="node188" href="$spsc__byte__buffer_8h.html" title="Single&#45;producer single&#45;consumer circular buffer of byte chunks." alt="" coords="10107,333,10253,375"/>
+<area shape="rect" id="node189" href="$spsc__ring__buffer_8h.html" title="Single&#45;producer single&#45;consumer circular buffer of copyable objects." alt="" coords="10209,423,10351,464"/>
+<area shape="rect" id="node190" href="$csv__dumper_8h.html" title="Asynchronous CSV dumper." alt="" coords="6733,884,6904,911"/>
+<area shape="rect" id="node192" href="$limited__pool_8h.html" title="Limited Pool." alt="" coords="14486,341,14661,367"/>
+<area shape="rect" id="node196" href="$log_8h.html" title="Logging." alt="" coords="9787,251,9901,278"/>
+<area shape="rect" id="node197" href="$cond_8h.html" title="Condition variable." alt="" coords="2749,244,2912,285"/>
+<area shape="rect" id="node198" href="$thread_8h.html" title="Thread." alt="" coords="10643,773,10805,814"/>
+<area shape="rect" id="node199" href="$target__posix__pc_2roc__core_2console_8h.html" title="Console." alt="" coords="12593,244,12762,285"/>
+<area shape="rect" id="node201" href="$target__android_2roc__core_2console_8h.html" title="Console." alt="" coords="12837,244,13013,285"/>
+<area shape="rect" id="node203" href="$rate__limiter_8h.html" title="Rate limiter." alt="" coords="6752,780,6920,807"/>
+<area shape="rect" id="node205" href="$cname_8h.html" title="CNAME utilities." alt="" coords="10886,594,11021,621"/>
+<area shape="rect" id="node206" href="$sdes_8h.html" title="SDES elements." alt="" coords="8288,594,8408,621"/>
+</map>

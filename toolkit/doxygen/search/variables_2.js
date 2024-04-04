@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['canon_5fid_4140',['canon_id',['../structroc_1_1audio_1_1PcmTraits.html#aac470aaf6518fa0b63f527464a9283c0',1,'roc::audio::PcmTraits']]],
+  ['capture_5ftimestamp_4141',['capture_timestamp',['../structroc_1_1packet_1_1RTP.html#a20d9ba43dc47d3ed2241311a83b56202',1,'roc::packet::RTP']]],
+  ['chanmaptables_4142',['ChanMapTables',['../namespaceroc_1_1audio.html#a6f8fe13813bb0f6be5ffc6d7856bfa55',1,'roc::audio']]],
+  ['chanmasknames_4143',['ChanMaskNames',['../namespaceroc_1_1audio.html#a1c06b835632946446a34c63daa6fcce9',1,'roc::audio']]],
+  ['chanordertables_4144',['ChanOrderTables',['../namespaceroc_1_1audio.html#a679c5a4f38d9a2f8ffc3c5c110d7544c',1,'roc::audio']]],
+  ['chanpositionnames_4145',['ChanPositionNames',['../namespaceroc_1_1audio.html#a5fdcc10e942edd59d87309101dc9f829',1,'roc::audio']]],
+  ['chans_4146',['chans',['../structroc_1_1audio_1_1ChannelOrderTable.html#adfac4fe64fd7c65121c6afb8781bef76',1,'roc::audio::ChannelOrderTable']]],
+  ['choppy_5fplayback_5ftimeout_4147',['choppy_playback_timeout',['../structroc_1_1audio_1_1WatchdogConfig.html#abef49cb5e3290ddb0d184e0b42342d8e',1,'roc::audio::WatchdogConfig']]],
+  ['choppy_5fplayback_5fwindow_4148',['choppy_playback_window',['../structroc_1_1audio_1_1WatchdogConfig.html#a4b599f490b70d6480004047e64db95e6',1,'roc::audio::WatchdogConfig']]],
+  ['chunk_5fduration_4149',['chunk_duration',['../structroc_1_1audio_1_1ProfilerConfig.html#a7c021751efad670543a0285586e789ed',1,'roc::audio::ProfilerConfig']]],
+  ['chunk_5fid_5f_4150',['chunk_id_',['../structroc_1_1sndio_1_1WavHeader_1_1WavHeaderData.html#ab620b28e620d7d13bed52b1982311514',1,'roc::sndio::WavHeader::WavHeaderData']]],
+  ['chunk_5fsize_5f_4151',['chunk_size_',['../structroc_1_1sndio_1_1WavHeader_1_1WavHeaderData.html#a7a84ea3e23226238e0106749dc68f3ff',1,'roc::sndio::WavHeader::WavHeaderData']]],
+  ['clock_5foffset_4152',['clock_offset',['../structroc_1_1rtcp_1_1SendReport.html#a616f103297e7fa9485ba9e2126486c42',1,'roc::rtcp::SendReport::clock_offset()'],['../structroc_1_1rtcp_1_1RecvReport.html#a15de4563cad4a4340c4f2fabe7173771',1,'roc::rtcp::RecvReport::clock_offset()'],['../structroc_1_1rtcp_1_1RttMetrics.html#a42b30a1b27a3386f887c13253fc610c1',1,'roc::rtcp::RttMetrics::clock_offset()']]],
+  ['cname_4153',['cname',['../structroc_1_1rtcp_1_1ParticipantInfo.html#a96a2d90adc3ec2c5042c760ef486b9d3',1,'roc::rtcp::ParticipantInfo']]],
+  ['coeff_4154',['coeff',['../structroc_1_1audio_1_1ChannelMapRule.html#a7866fc851bc3e89efda961fe9d635e36',1,'roc::audio::ChannelMapRule']]],
+  ['colors_5fmode_4155',['colors_mode',['../structroc_1_1core_1_1LogMessage.html#a26a6c7e44fc265f8166af2d26dfaedc6',1,'roc::core::LogMessage']]],
+  ['common_4156',['common',['../structroc_1_1pipeline_1_1ReceiverSourceConfig.html#a4519bb940107b5c287126b64b1e8cb0a',1,'roc::pipeline::ReceiverSourceConfig']]],
+  ['completer_5f_4157',['completer_',['../classroc_1_1netio_1_1NetworkTask.html#a5282493cda6b477515ac7a1d98e15129',1,'roc::netio::NetworkTask']]],
+  ['cum_5floss_4158',['cum_loss',['../structroc_1_1rtcp_1_1RecvReport.html#ab5458f4f1a545d3606d7b9506657a0b3',1,'roc::rtcp::RecvReport']]]
+];

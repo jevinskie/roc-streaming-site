@@ -1,0 +1,34 @@
+<map id="roc_sndio/device_type.h" name="roc_sndio/device_type.h">
+<area shape="rect" id="node1" title="Device type." alt="" coords="766,5,945,32"/>
+<area shape="rect" id="node2" href="$backend__dispatcher_8h.html" title="Backend dispatcher." alt="" coords="741,237,969,263"/>
+<area shape="rect" id="node4" href="$ibackend_8h.html" title="Backend interface." alt="" coords="624,155,783,181"/>
+<area shape="rect" id="node9" href="$idevice_8h.html" title="Device interface." alt="" coords="1105,80,1251,107"/>
+<area shape="rect" id="node3" href="$roc__sndio_2print__supported_8h.html" title="Print supported schemes and formats." alt="" coords="754,326,957,353"/>
+<area shape="rect" id="node5" href="$backend__map_8h.html" title="Backend map." alt="" coords="508,326,699,353"/>
+<area shape="rect" id="node6" href="$pulseaudio__backend_8h.html" title="Pulseaudio backend." alt="" coords="5,229,241,271"/>
+<area shape="rect" id="node7" href="$sox__backend_8h.html" title="SoX backend." alt="" coords="265,229,453,271"/>
+<area shape="rect" id="node8" href="$wav__backend_8h.html" title="WAV backend." alt="" coords="477,237,665,263"/>
+<area shape="rect" id="node10" href="$isink_8h.html" title="Sink interface." alt="" coords="2189,155,2319,181"/>
+<area shape="rect" id="node27" href="$isource_8h.html" title="Source interface." alt="" coords="1318,155,1465,181"/>
+<area shape="rect" id="node11" href="$sender__loop_8h.html" title="Sender pipeline loop." alt="" coords="2090,319,2239,360"/>
+<area shape="rect" id="node21" href="$sender__sink_8h.html" title="Sender sink pipeline." alt="" coords="2862,229,3011,271"/>
+<area shape="rect" id="node22" href="$transcoder__sink_8h.html" title="Transcoder sink pipeline." alt="" coords="2292,229,2467,271"/>
+<area shape="rect" id="node23" href="$pump_8h.html" title="Pump." alt="" coords="2079,237,2216,263"/>
+<area shape="rect" id="node24" href="$pulseaudio__device_8h.html" title="PulseAudio device." alt="" coords="1829,229,2055,271"/>
+<area shape="rect" id="node25" href="$sox__sink_8h.html" title="SoX sink." alt="" coords="2491,229,2652,271"/>
+<area shape="rect" id="node26" href="$wav__sink_8h.html" title="WAV sink." alt="" coords="2676,237,2837,263"/>
+<area shape="rect" id="node12" href="$basic__control__endpoint_8h.html" title="Base class for control endpoints." alt="" coords="1678,408,1833,449"/>
+<area shape="rect" id="node19" href="$sender_8h.html" title="Sender node." alt="" coords="2095,736,2235,763"/>
+<area shape="rect" id="node20" href="$sender__encoder_8h.html" title="Sender encoder node." alt="" coords="1872,736,2071,763"/>
+<area shape="rect" id="node13" href="$control__interface__map_8h.html" title="Control interface map." alt="" coords="1569,497,1747,539"/>
+<area shape="rect" id="node14" href="$control__loop_8h.html" title="Control loop thread." alt="" coords="1772,505,1933,531"/>
+<area shape="rect" id="node15" href="$context_8h.html" title="Node context." alt="" coords="1779,587,1926,613"/>
+<area shape="rect" id="node17" href="$receiver_8h.html" title="Receiver node." alt="" coords="1466,736,1615,763"/>
+<area shape="rect" id="node16" href="$node_8h.html" title="Base class for nodes." alt="" coords="1788,661,1917,688"/>
+<area shape="rect" id="node18" href="$receiver__decoder_8h.html" title="Receiver decoder node." alt="" coords="1639,736,1847,763"/>
+<area shape="rect" id="node28" href="$receiver__loop_8h.html" title="Receiver pipeline loop." alt="" coords="1401,319,1560,360"/>
+<area shape="rect" id="node29" href="$receiver__source_8h.html" title="Receiver source pipeline." alt="" coords="1195,229,1353,271"/>
+<area shape="rect" id="node30" href="$transcoder__source_8h.html" title="Transcoder source pipeline." alt="" coords="1429,229,1604,271"/>
+<area shape="rect" id="node31" href="$sox__source_8h.html" title="SoX source." alt="" coords="1628,229,1805,271"/>
+<area shape="rect" id="node32" href="$wav__source_8h.html" title="WAV source." alt="" coords="993,237,1171,263"/>
+</map>
